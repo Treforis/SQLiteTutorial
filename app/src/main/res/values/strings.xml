@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite Tutorial</string>
+    <string name="hint_title">Titre</string>
+    <string name="hint_subtitle">Sous-titre</string>
+    <string name="hint_new_title">Nouveau titre (pour Modifier)</string>
+    <string name="btn_add">Ajouter</string>
+    <string name="btn_find">Rechercher</string>
+    <string name="btn_update">Modifier</string>
+    <string name="btn_delete">Supprimer</string>
+    <string name="btn_list">Tout afficher</string>
+</resources>
